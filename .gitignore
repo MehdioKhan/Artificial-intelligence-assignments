@@ -5,3 +5,4 @@ local/*
 include/*
 .vscode/*
 Assignment#2-Searches/search/.idea/*
+*.pyc
